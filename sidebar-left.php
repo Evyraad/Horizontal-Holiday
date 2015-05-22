@@ -11,7 +11,6 @@
     <div class="sidebar-left collapse navbar-collapse" id="example-navbar-collapse">
 <!--        <section class="sidebar-left">-->
             <div class="ih-item">
-                <!--Если будешь лого уменьшать делай 200х13.. px-->
                 <a href="/">
                     <img id="logo" class="img-rounded" src="<?php bloginfo('template_directory'); ?>/img/flourish_logo.png" 
                     alt="Логотип: Мастерская семейных событий. Особый случай.">
@@ -26,10 +25,18 @@
             </nav>    
             <div class="my-dots"></div>
             <ul class="icons">
-                <a href="mailto:ossluch@mail.ru"><li id="icon_e-mail"></li></a>
-                <a href=""><li id="icon_Skype"></li></a>
-                <a href=""><li id="icon_Ok"></li></a>
-                <a href=""><li id="icon_VK"></li></a>
+                <li><a href="#">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/Icon/e-mail_active.png" alt="E-mail">
+                    </a></li>
+                <li><a href="#">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/Icon/Skype_active.png" alt="Skype">
+                    </a></li>
+                <li><a href="#">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/Icon/instagram_active.png" alt="instagram">
+                    </a></li>  
+                <li><a href="#">
+                        <img src="<?php bloginfo('template_directory'); ?>/img/Icon/Facebook_active.png" alt="facebook">
+                    </a></li>
             </ul>
             <div id="copyright_and_text">
                 <p> &#169; <?php echo date('Y'); ?><br>
