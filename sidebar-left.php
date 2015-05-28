@@ -10,13 +10,13 @@
     </div>
     <div class="sidebar-left collapse navbar-collapse" id="example-navbar-collapse">
 <!--        <section class="sidebar-left">-->
-            <div class="ih-item">
-                <a href="/">
-                    <img id="logo" class="img-rounded" src="<?php bloginfo( 'template_directory' ); ?>/img/flourish_logo.png" 
+            <figure class="ih-item">
+                <img id="logo" class="img-rounded" src="<?php bloginfo( 'template_directory' ); ?>/img/flourish_logo.png" 
                     alt="Логотип: Темы для Wordpress Horizontal Holiday." />
-                    <h1>Horizontal Holiday</h1>
-                </a>
-            </div>
+                <figcaption>
+                    <a id="figcaption-logo" href="/"><h1>Horizontal<br /> Holiday</h1></a>
+                </figcaption>    
+            </figure>
             <div class="my-dots"></div>
             <nav>
                 <?php if ( is_active_sidebar( 'sidebar-left' ) ) {      
