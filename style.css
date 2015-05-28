@@ -7369,11 +7369,18 @@ a {
   box-sizing: border-box;
 }
 .ih-item #logo {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   width: 100%;
   height: 100%;
   max-width: 200px;
   max-height: 44px;
+}
+#figcaption-logo:hover {
+  color: #8c65a0;
+}
+#figcaption-logo > h1 {
+  font: 44px/1.4em "Mon-Amour-Two";
+  margin-top: 0;
 }
 .container-fluid {
   max-width: 1440px;
