@@ -7,7 +7,7 @@ get_header(); ?>
     <div class="row-fluid page-404">
         <header>
             <h1 class="text-center head-size-404">
-                Особый Случай <br /><span style="font-size: 28px;">Мастерская семейных событий</span>
+                Horizontal Holiday <br /><span style="font-size: 28px;"></span>
             </h1>
             <p class="separator-404"></p>
         </header>
