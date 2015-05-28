@@ -34,10 +34,7 @@
             <div class="footer-blog-post-cat"><b>Категории: </b><?php the_category( ', ' ); ?></div>
         </div>
     </div> 
-
-
-                              
+    
 </article>
-
 <div class="my-dots dots-blog"></div>
 

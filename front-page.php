@@ -15,10 +15,10 @@
                         <ul>
                             <li class="col-lg-3 col-md-3 col-sm-5">
                                 <figure class="slide">
-                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_1.jpg" alt="Свадьба"/></a>
+                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_1.jpg" alt="Свадьба" /></a>
                                     <figcaption class="ih-item slide-label">                                 
                                         <h2>
-                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение">
+                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение" />
                                             <a href="#">Свадьба</a>
                                         </h2>
                                     </figcaption>                                   
@@ -26,10 +26,10 @@
                             </li>
                             <li class="col-lg-3 col-md-3 col-sm-5">
                                 <figure class="slide">
-                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_2.jpg" alt="Kорпоратив"/></a>
+                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_2.jpg" alt="Kорпоратив" /></a>
                                     <figcaption class="ih-item slide-label">
                                         <h2>
-                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение">
+                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение" />
                                             <a href="#">Корпоратив</a>
                                         </h2>
                                     </figcaption>
@@ -37,10 +37,10 @@
                             </li>
                             <li class="col-lg-3 col-md-3 col-sm-5">
                                 <figure class="slide">
-                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_3.jpg" alt="День рождения"/></a>
+                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_3.jpg" alt="День рождения" /></a>
                                     <figcaption class="ih-item slide-label">
                                         <h2>
-                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение">
+                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение" />
                                             <a href="#">День рождения</a>
                                         </h2>
                                     </figcaption>
@@ -48,10 +48,10 @@
                             </li>
                             <li class="col-lg-3 col-md-3 col-sm-5">
                                 <figure class="slide">
-                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_4.jpg" alt="Приятные мелочи"/></a>
+                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_4.jpg" alt="Приятные мелочи" /></a>
                                     <figcaption class="ih-item slide-label">
                                         <h2>
-                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение">
+                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение" />
                                             <a href="#">Приятные мелочи</a>
                                         </h2>
                                     </figcaption>
@@ -59,10 +59,10 @@
                             </li>
                             <li class="col-lg-3 col-md-3 col-sm-5">
                                 <figure class="slide">                   
-                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_5.jpg" alt="Свадебные аксессуары"/></a>
+                                    <a href="#"><img src="<?php bloginfo( 'template_directory' ); ?>/img/slider/imag_5.jpg" alt="Свадебные аксессуары" /></a>
                                     <figcaption class="ih-item slide-label">
                                         <h2>
-                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение">
+                                            <img class="appear-circle" src="<?php bloginfo( 'template_directory' ); ?>/img/slider/slider-dec.png" alt="фоновое изображение" />
                                             <a href="#">Свадебные аксессуары</a>
                                         </h2>
                                     </figcaption>
