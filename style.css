@@ -7294,6 +7294,13 @@ css for comments
   padding-right: 1px;
   text-align: center;
 }
+#respond > h3 a:hover {
+  color: #8c65a0;
+}
+#respond > h3 > small {
+  display: block;
+  margin-top: 10px;
+}
 #respond .logged-in-as {
   margin-bottom: 20px;
 }
