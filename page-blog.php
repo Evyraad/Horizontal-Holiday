@@ -23,7 +23,7 @@
                                 /*
                                  * Пременная - $MY_posts_per_page задает максимальное число постов на странице blog
                                  */
-                            $MY_posts_per_page  = 1;
+                            $MY_posts_per_page  = 10;
                             $loop_counter       = 0;
                                 query_posts( 'post_type=post&post_status=publish&posts_per_page='.$MY_posts_per_page .'&paged=' . get_query_var( 'paged' ) );
                            
