@@ -1,7 +1,7 @@
 <?php ?>    
 <footer class="row-fluid">
     <p>Разработчик 
-        <a href="http://card-mstar.rhcloud.com/">Кравченко Татьяна</a>.
+        <a href="http://card-mstar.rhcloud.com/">Салычева Татьяна</a>.
         Все материалы на сайте распространяются с использованием лицензии
         <a href="http://creativecommons.org/licenses/by-nc/3.0/legalcode">
             Creative Commons Attribution-NonCommercial.</a>
