@@ -10,6 +10,7 @@
         <!--class="col-lg-9 col-lg-offset-3 col-md-9 col-md-offset-3 col-sm-9 col-sm-offset-3"-->
         <div id="" class="my-col-9">          
             <div class="row">
+                <div class="site-description text-center"><p><?php bloginfo('description')?></p></div>
                 <div class="jcarousel-wrapper">
                     <div class="jcarousel" data-jcarousel="true">                    
                         <ul>
